@@ -1,0 +1,4 @@
+# Built by make, removed by make clean
+campuscompute
+activity.log
+*.o

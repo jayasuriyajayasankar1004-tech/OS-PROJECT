@@ -1,0 +1,16 @@
+# Banker's input: same processes, fewer free resources (expected: UNSAFE)
+5 3
+# Available (A B C)
+1 0 0
+# Allocation
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+# Maximum
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
