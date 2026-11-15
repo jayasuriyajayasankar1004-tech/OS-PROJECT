@@ -1,0 +1,17 @@
+# Banker's input: classic textbook example (expected: SAFE)
+# Line 1: PROCESSES RESOURCES
+5 3
+# Available (A B C)
+3 3 2
+# Allocation, one row per process P0..P4
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+# Maximum, one row per process P0..P4
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
